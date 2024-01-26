@@ -1,12 +1,17 @@
 from PIL import Image
 import pytesseract
 
-# Open an image file
-image_path = 'phantom_1.jpeg'
+
+image_path = 'phantom_3.jpeg'
 img = Image.open(image_path)
 
-# Use pytesseract to extract text
 text = pytesseract.image_to_string(img)
 
-# Print the extracted text
-print(text)
+# Open a file in write mode ('w')
+with open('output.txt', 'w') as file:
+    file.write(text)
+
+# The file will be automatically closed when the 'with' block is exited
+
+
+print(text[5])
