@@ -1,48 +1,27 @@
-8:45 a
+5:41 oe 67)
+go} @ Account 1 v ao
 
-fob @ Account 1 v
+$1,935.34
 
-$2,062.95
++$55.38 +2.95%
 
-+$32.67 +1.61%
+«= Solana $690.47
+=m 7.4452 SOL +$41.44
+» Orca $498.07
+(=) 98.23799 ORCA +$7.75
+Pyth Network $483.39
 
-= Solana
-“—@ 10.3775 SOL
+(=) 1,241.17283 PYTH -$23.64
+FluxBot $221.53
 
-Pyth Network
-9 1,241.17283 PYTH
-» Orca
-(=) 98.23799 ORCA
+e 2,026.49821 FLUXB +$27.46
 
-FluxBot
-e 1,147.53611 FLUXB
-
-Bonk
-
-(=) 3.17M Bonk
-Bitcoin
-0.00011 BTC
+Bonk $37.47
+e 3.17M Bonk +$2.17
+Bitcoin $4.42
+0.00011 BTC +$0.20
 
 <= Manage token list
 
-oe 8 Ss +¢
+$ Zs S 4 @
 
-$909.80
--$7.02
-
-$515.77
-+$52.10
-
-$485.30
--$17.69
-
-$111.77
-+$3.50
-
-$36.07
-+$1.77
-
-$4.25
-+<$0.01
-
-@

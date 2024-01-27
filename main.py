@@ -2,7 +2,7 @@ from PIL import Image
 import pytesseract
 
 
-image_path = 'phantom_3.jpeg'
+image_path = 'phantom_4.jpeg'
 img = Image.open(image_path)
 
 text = pytesseract.image_to_string(img)
@@ -14,4 +14,4 @@ with open('output.txt', 'w') as file:
 # The file will be automatically closed when the 'with' block is exited
 
 
-print(text[5])
+print(text)
